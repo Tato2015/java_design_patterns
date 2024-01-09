@@ -1,0 +1,3 @@
+Exercise 2: Creation of Geometric Figures
+Implements a system for creating geometric figures using the Simple Factory pattern. 
+The figures can be circles, squares and triangles. Each figure must have methods for calculating area and perimeter.
