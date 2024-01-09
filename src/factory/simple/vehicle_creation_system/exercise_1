@@ -1,0 +1,4 @@
+Exercise 1: Vehicle Creation System
+Design a vehicle creation system using the Simple Factory pattern. 
+Vehicles can include cars, motorcycles, and bicycles. Each type of vehicle must have specific methods, 
+such as speeding up, braking, etc.
