@@ -1,0 +1,4 @@
+Exercise 1: Document Creation System
+Design a document creation system using the Factory Method pattern. 
+Documents can be of different types, such as PDF, Word and HTML. 
+Each document type should have methods for creating headings, paragraphs, etc.
