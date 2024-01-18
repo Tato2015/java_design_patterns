@@ -1,0 +1,4 @@
+exercise 2 : Creating a Game Character
+Design a game character creation system using the Builder pattern. 
+The character can have properties such as name, class type (warrior, mage, archer), 
+weapon, armor, etc. Create a set of constructors for different character classes.

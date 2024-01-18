@@ -1,0 +1,8 @@
+Exercise 3: Vehicle Creation
+Imagine you are developing a traffic simulation game and you need to create vehicles for different types of terrain. 
+Defines a Car interface with methods like drive() and stop().
+
+Then, implement concrete classes such as CityCar, CitySUV, OffRoadCar, and OffRoadSUV that implement this interface. 
+Create a VehicleFactory interface with methods like createCar() and createSUV(). 
+Implement two classes that implement this interface: CityVehicleFactory and OffRoadVehicleFactory. 
+Each of these classes must implement the methods to create corresponding instances of cars and SUVs for their respective terrains.

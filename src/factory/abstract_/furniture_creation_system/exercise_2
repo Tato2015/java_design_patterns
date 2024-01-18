@@ -1,0 +1,8 @@
+Exercise 2: Furniture Creation
+Imagine that you are designing an interior design application and you need to create furniture for different decoration styles. 
+Defines a Chair interface and a Sofa interface with methods like sit() and lieDown().
+
+Then, implement concrete classes such as ModernChair, ModernSofa, VictorianChair, and VictorianSofa that implement these interfaces. 
+Create a FurnitureFactory interface with methods like createChair() and createSofa(). 
+Implement two classes that implement this interface: ModernFurnitureFactory and VictorianFurnitureFactory. 
+Each of these classes must implement methods to create corresponding instances of chairs and sofas for their decor styles.

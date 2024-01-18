@@ -1,0 +1,9 @@
+Exercise 1: Creating Widgets
+Imagine that you are developing a graphical interface and you need to create specific widgets for different operating systems. 
+Defines a Button interface and a Checkbox interface with methods like render().
+
+Then, implement concrete classes such as WindowsButton, WindowsCheckbox, MacButton, and MacCheckbox that implement these interfaces. 
+Create a UIFactory interface with methods like createButton() and createCheckbox(). 
+Implement two classes that implement this interface: WindowsUIFactory and MacUIFactory. 
+Each of these classes must implement methods to create corresponding instances of buttons and checkboxes for their respective operating 
+systems.
